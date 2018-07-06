@@ -1,0 +1,6 @@
+# build
+
+# Run
+EXIV_DIRECTORY=""
+DARKTABLE_DIRECTORY=""
+export LD_LIBRARY_PATH=${DARKTABLE_DIRECTORY}/build/src:${EXIV_DIRECTORY}/build/lib/
