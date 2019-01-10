@@ -1,4 +1,4 @@
-# Varibales
+# Variables
 
 ```
 EXIV_DIRECTORY="" # path to manually build clone exiv
