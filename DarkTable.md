@@ -1,3 +1,17 @@
+# Update lens data
+
+It is required to darktable know about new cameras
+
+- Install liblensfun-bin
+```
+aptitude install liblensfun-bin
+```
+
+- run lens update
+```
+lensfun-update-data
+```
+
 # Variables
 
 ```
